@@ -1,27 +1,23 @@
 ---
-title: Home
+title: Mandela efekt
 ---
+**Mandela efekt**
 
-# Hello World! (It works!)
+*Mým cílem pro tento projek je seznámit s fenoménem jménem Mandela efekt, říct co vlastně znamená, kde se vzal a uvést nejznámější příklady tohoto efektu. *
 
-This are the contents of the Hugo start website front page.
+Mandela efekt je novodobý fenomén, který se zabývá tím, že si některé věci  pamatujeme zcela jinak, než ve skutečnosti jsou. Občas nás sice paměť zklame, ale když se tak stane u většiny lidí ze všech koutů planety, věci začínají být podezdřelé. Exituje několik teorií, proč se tak děje. Může za nepravé vzpomínky cestování časem, vliv paralelních vesmírů, jiné dimenze nebo obyčejná náhoda a lidská hloupost?
 
-## Something to read: Sonnet LXVI.
+Mnoho lidí si pamatuje, že bývalý prezident Jihoafrické republiky Nelson Mandela zemřel v 80. letech ve vězení v Pollsmoor. Pravda je však jiná - Nelson Mandela žil až do roku 2013. Právě tato událost stojí za zrodem fenoménu jménem Mandela efekt.
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+Celý tento fenomén se řadí mezi konspirační teorie a jedná se pouze o osobní domněnky osob, nelze proto z žádných tvrzení vycházet a brát je 100% vážně.
+ 
+
+Zdroje
+
+https://mandelaeffect.com/
+
+https://rationalwiki.org/wiki/Mandela_effect
+
+http://theconversation.com/the-mandela-effect-and-how-your-mind-is-playing-tricks-on-you-89544
+
 
