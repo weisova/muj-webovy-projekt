@@ -1,9 +1,9 @@
 ---
 title: Mandela efekt
 ---
-**Mandela efekt**
+#Mandela efekt
 
-*Mým cílem pro tento projek je seznámit s fenoménem jménem Mandela efekt, říct co vlastně znamená, kde se vzal a uvést nejznámější příklady tohoto efektu. *
+Mým cílem pro tento projek je seznámit s fenoménem jménem Mandela efekt, říct co vlastně znamená, kde se vzal a uvést nejznámější příklady tohoto efektu. *
 
 Mandela efekt je novodobý fenomén, který se zabývá tím, že si některé věci  pamatujeme zcela jinak, než ve skutečnosti jsou. Občas nás sice paměť zklame, ale když se tak stane u většiny lidí ze všech koutů planety, věci začínají být podezdřelé. Exituje několik teorií, proč se tak děje. Může za nepravé vzpomínky cestování časem, vliv paralelních vesmírů, jiné dimenze nebo obyčejná náhoda a lidská hloupost?
 
@@ -12,7 +12,7 @@ Mnoho lidí si pamatuje, že bývalý prezident Jihoafrické republiky Nelson Ma
 Celý tento fenomén se řadí mezi konspirační teorie a jedná se pouze o osobní domněnky osob, nelze proto z žádných tvrzení vycházet a brát je 100% vážně.
  
 
-Zdroje
+#Zdroje
 
 https://mandelaeffect.com/
 
