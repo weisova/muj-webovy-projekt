@@ -8,7 +8,7 @@ Berenstain Bears or Berenstein Bears – Which do you recall? (Still one of the mo
 <!--more-->
 If you’re looking for Mandela Effect examples – or want to verify something you recall – this is a good place to start. These are some (not all) alternate memories that have been discussed at this website.
 
-Bold links will take you to articles at this website, where you can read more. (For more of Fiona’s articles, see the Sitemap.)<!--more-->
+Bold links will take you to articles at this website, where you can read more. (For more of Fiona’s articles, see the Sitemap.)
 
 Billy Graham’s funeral on TV, prior to his death on 21 Feb 2018 (per NBC News).
 
