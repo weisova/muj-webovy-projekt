@@ -1,11 +1,15 @@
 ---
-title: Mandela Effect Examples – Memories/Comments: 2019-04-10
+title: "Mandela Effect Examples – Memories/Comments" 
+date: 2019-04-10
 tags: 
-    - mandela   - data
----Most popular alternate memories
+    - mandelaeffect
+
+---
+
+Most popular alternate memories
 Berenstain Bears or Berenstein Bears – Which do you recall? (Still one of the most popular topics at this website.)
 
-<!--more-->
+
 If you’re looking for Mandela Effect examples – or want to verify something you recall – this is a good place to start. These are some (not all) alternate memories that have been discussed at this website.
 
 Bold links will take you to articles at this website, where you can read more. (For more of Fiona’s articles, see the Sitemap.)
