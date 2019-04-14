@@ -22,4 +22,4 @@ Jelikož máme téma Mandela effect, představuji si, že náš web bude mít tm
 Pepa:
 Můj moodboard obsahuje obrázky, které by se daly rozdělit do čtyř skupin. První skupina jsou obrázky, které jako nadpisy či úvodní ilustrace. Druhá skupina jsou obrázky, které můžeme použít jako ilustrace stránky. Jejich hlavní účel je stránku nějakým způsobem zkrášlik či vylepšit, ne však nic pospat nebo vysvětlit. Třetí skupinou jsou tři meme, jeden odkaz a thumbnail videa. Tato meme udávají příklady našeho tématu v praxi na velmi dobře známých tématech. Pomocí odkazu se dostaneme k velkému množství stránek, které by nám mohly při tvorbě projektu pomoci. Video potom zjednodušeně naše téma vysvětluje. Bylo natočeno YouTuberem jménem Joe Scott, který se zabývá mimo jiné  podobnými problémy (ze světa konspiračních teorií a nadpřirozených událostí) a snaží se je logicky vysvětlit. Do čtvrté skupiny patří dva obrázky ukazující webové stránky. Tyto stránky sice nesouvisí s naším tématem, ale mohly bychom se inspirovat jejich vizuální stránkou. 
 
-[](https://is.muni.cz/www/481227/screen_moodboardu.png)
+![](https://is.muni.cz/www/481227/screen_moodboardu.png)
