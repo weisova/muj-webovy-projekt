@@ -1,5 +1,5 @@
 ---
-title: "Mandela Effect Examples ‚Äì Memories/Comments" 
+title: "Mandela Effect Examples ñ Memories/Comments" 
 date: 2019-04-10
 tags: 
     - mandelaeffect
@@ -7,40 +7,40 @@ tags:
 ---
 
 Most popular alternate memories
-Berenstain Bears or Berenstein Bears ‚Äì Which do you recall? (Still one of the most popular topics at this website.)
+Berenstain Bears or Berenstein Bears ñ Which do you recall? (Still one of the most popular topics at this website.)
 
 
-If you‚Äôre looking for Mandela Effect examples ‚Äì or want to verify something you recall ‚Äì this is a good place to start. These are some (not all) alternate memories that have been discussed at this website.
+If youíre looking for Mandela Effect examples ñ or want to verify something you recall ñ this is a good place to start. These are some (not all) alternate memories that have been discussed at this website.
 
-Bold links will take you to articles at this website, where you can read more. (For more of Fiona‚Äôs articles, see the Sitemap.)
+Bold links will take you to articles at this website, where you can read more. (For more of Fionaís articles, see the Sitemap.)
 
-Billy Graham‚Äôs funeral on TV, prior to his death on 21 Feb 2018 (per NBC News).
+Billy Grahamís funeral on TV, prior to his death on 21 Feb 2018 (per NBC News).
 
 Challenger shuttle explosion date? 1984, 1985, or 1986? Winter or another time of year? (Per Wikipedia, it was 28 Jan 1986.) Also, alternate memories about the Columbia.
 
-Colors ‚Äì Chartreuse and more ‚Äì Many people recall chartreuse as a pink or reddish color. It‚Äôs actually yellow-green.
+Colors ñ Chartreuse and more ñ Many people recall chartreuse as a pink or reddish color. Itís actually yellow-green.
 
-Curious George ‚Äì Tail or no tail? (He‚Äôs never had a tail.)  This is part of my article about dual memories.
+Curious George ñ Tail or no tail? (Heís never had a tail.)  This is part of my article about dual memories.
 
-Ghost Hunters TV show ‚Äî Some remember the earliest show name as TAPS, not Ghost Hunters. (Yes, we know the real-life team is called TAPS, and some of their gear has always said that.)
+Ghost Hunters TV show ó Some remember the earliest show name as TAPS, not Ghost Hunters. (Yes, we know the real-life team is called TAPS, and some of their gear has always said that.)
 
-Henry VIII portrait with a turkey leg in his hand ‚Äî Many people clearly recall seeing it in history books, but there‚Äôs no record of it, now.
+Henry VIII portrait with a turkey leg in his hand ó Many people clearly recall seeing it in history books, but thereís no record of it, now.
 
-Jif or Jiffy Peanut Butter ‚Äì Jif peanut butter was never called ‚ÄúJiffy,‚Äù in this timestream. (Not confused with Skippy brand, either.)
+Jif or Jiffy Peanut Butter ñ Jif peanut butter was never called ìJiffy,î in this timestream. (Not confused with Skippy brand, either.)
 
-Lindbergh baby ‚Äì Never found? In this timestream, the 20-month old baby was found 12 May 1932.
+Lindbergh baby ñ Never found? In this timestream, the 20-month old baby was found 12 May 1932.
 
-Mother Teresa ‚Äì A saint before 2016? Several recall her canonization in the 1990s. They also recall her name spelled ‚ÄúTheresa.‚Äù
+Mother Teresa ñ A saint before 2016? Several recall her canonization in the 1990s. They also recall her name spelled ìTheresa.î
 
-Nelson Mandela‚Äôs death in prison, long before his actual death (in this timestream) on 5 December 2013. (This was the alternate memory that launched MandelaEffect.com)
+Nelson Mandelaís death in prison, long before his actual death (in this timestream) on 5 December 2013. (This was the alternate memory that launched MandelaEffect.com)
 
-New Zealand‚Äôs location, relative to Australia.
+New Zealandís location, relative to Australia.
 
-Red/blue ‚Äì Pepsi logo changes, Chevron logo changes, and other color swaps‚Ä¶ are they markers, cues, or signs to watch for?
+Red/blue ñ Pepsi logo changes, Chevron logo changes, and other color swapsÖ are they markers, cues, or signs to watch for?
 
-September 22nd or 23rd? ‚Äì Some people recall events shifting from one of these dates to another.  (The reaction to this article ‚Äì on- and off-site ‚Äì has been disproportionate to its apparent minor importance.)
+September 22nd or 23rd? ñ Some people recall events shifting from one of these dates to another.  (The reaction to this article ñ on- and off-site ñ has been disproportionate to its apparent minor importance.)
 
-Sky ‚Äì Changes in the sun, moon, stars, planets and their moons, constellation configurations and placement, and the color of the sky in general.
+Sky ñ Changes in the sun, moon, stars, planets and their moons, constellation configurations and placement, and the color of the sky in general.
 
-Tiananmen Square ‚Äì Memories of a young man being run over by a tank. (Might be Mandela Effect issue or simple media manipulation.).
+Tiananmen Square ñ Memories of a young man being run over by a tank. (Might be Mandela Effect issue or simple media manipulation.).
 
