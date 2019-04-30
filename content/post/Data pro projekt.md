@@ -1,8 +1,10 @@
 ---
-title: Mandela efekt
-menu:
-  main:
-    weight: 30
+title: "Data pro projekt"
+date: 2019-04-30
+tags: 
+    - data
+    - sources
+
 ---
 ## Úvod
 
