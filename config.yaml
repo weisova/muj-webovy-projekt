@@ -2,6 +2,7 @@ title: Mandela efekt
 baseURL: https://xenodochial-lewin-dc7bbf.netlify.com/
 languageCode: cs-cz
 publishDir: public
+googleAnalytics : UA-139390205-1
 
 menu:
   main:
