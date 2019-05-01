@@ -41,3 +41,62 @@ nav li {
 nav .active {
   font-weight: bold;
 }
+
+body {
+  background-color: black;
+}
+
+.mainheading {
+  text-align: center;
+  font-family: "Verdana";
+  font-size: 37pt;
+  font-weight: 700;
+  color: #1a1aff;
+}
+
+.header1 {
+  font-family: "Verdana";
+  font-size: 27pt;
+  font-weight: 700;
+  color: #ffffff;  
+}
+
+h2 {
+  font-family: "Verdana";
+  font-size: 22pt;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+h3 {
+  font-family: "Georgia";
+  font-size: 18pt;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+p {
+  text-align: justify;
+  font-family: "Georgia";
+  font-size: 15pt;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+a {
+  color: #ffffff;
+}
+
+li {
+  font-family: "Georgia";
+  font-size: 15pt;
+  font-weight: 500;
+  line-height: 170%;
+  color: #ffffff;
+}
+
+.date {
+  font-family: "Georgia";
+  font-size: 13pt;
+  font-style: italic;
+}
