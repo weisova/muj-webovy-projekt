@@ -1,52 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on My New Hugo Site</title>
-    <link>https://xyz.netlify.com/</link>
-    <description>Recent content in Home on My New Hugo Site</description>
+    <title>Mandela efekt</title>
+    <link>https://xenodochial-lewin-dc7bbf.netlify.com/</link>
+    <description>Recent content on Mandela efekt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://xyz.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xenodochial-lewin-dc7bbf.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>All albums of The Beatles</title>
-      <link>https://xyz.netlify.com/post/another-post/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      <title>Data pro projekt</title>
+      <link>https://xenodochial-lewin-dc7bbf.netlify.com/post/data-pro-projekt/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://xyz.netlify.com/post/another-post/</guid>
-      <description>&lt;p&gt;This is just another post. And it illustrates a mighty functionality.&lt;/p&gt;</description>
+      <guid>https://xenodochial-lewin-dc7bbf.netlify.com/post/data-pro-projekt/</guid>
+      <description>Úvod Tento článek bude obsahovat konkrétní zdroje s daty vhodné pro náš projekt. U každého zdroje bude uveden popis a údaj o tom, pod jakou licencí jsou data dostupná. Některé zdroje se budou opakovat, protože již jsou uvedena v předchozím článku.
+Otevřená data pro projekt Konkrétní zdroje zabývající se mandela efektem:
+1) https://mandelaeffect.com/?fbclid=IwAR0djcHBNxCKTKmpqrCXoyNfGQadUUBTitHc-RUDUgGEzuM6eJnJjmPykow
+Tato webová stránka je pro náš projekt velmi důležitá. Troufám si říct, že je to jedna z mála stránek, které se zabývají čistě jen mandela efektem.</description>
     </item>
     
     <item>
-      <title>Welcome to Hugo!</title>
-      <link>https://xyz.netlify.com/post/welcome-to-hugo/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      <title>Tvorba moodboardu pro náš web</title>
+      <link>https://xenodochial-lewin-dc7bbf.netlify.com/post/moodboard/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://xyz.netlify.com/post/welcome-to-hugo/</guid>
-      <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
-To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
+      <guid>https://xenodochial-lewin-dc7bbf.netlify.com/post/moodboard/</guid>
+      <description>Úvod: Cílem tohoto článku je představit 3 moodboardy pro budoucí webovou stránku o Mandela efektu. Jejich účelem je inspirovat nás v budoucím přizpůsobování stránky a zároveň předpřipravit si prvky, které poté budeme moct použít. První moodboard je spíše inspirativní pro vizuální stránku webu, představuje prvky tajemna a vesmíru, ale také množství prakticky použitelných obrázků do budoucích článků. Druhý moodboard obsahuje ve velké míře praktické obrázky použitelné ve článcích, příklady samotného efektu a pár prvků použitelých pro design stránek.</description>
+    </item>
+    
+    <item>
+      <title>Mandela Effect Examples – Memories/Comments</title>
+      <link>https://xenodochial-lewin-dc7bbf.netlify.com/post/clanek/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xenodochial-lewin-dc7bbf.netlify.com/post/clanek/</guid>
+      <description>Most popular alternate memories Berenstain Bears or Berenstein Bears – Which do you recall? (Still one of the most popular topics at this website.)
+If you’re looking for Mandela Effect examples – or want to verify something you recall – this is a good place to start. These are some (not all) alternate memories that have been discussed at this website.
+Bold links will take you to articles at this website, where you can read more.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://xyz.netlify.com/error/404/</link>
+      <link>https://xenodochial-lewin-dc7bbf.netlify.com/error/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xyz.netlify.com/error/404/</guid>
+      <guid>https://xenodochial-lewin-dc7bbf.netlify.com/error/404/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://xyz.netlify.com/about/</link>
+      <title>O Nás</title>
+      <link>https://xenodochial-lewin-dc7bbf.netlify.com/o-n%C3%A1s/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xyz.netlify.com/about/</guid>
-      <description>This is a minimal Hugo website created for a course VIKBA07.
-Learn more about Hugo with a quick start guide or by exploring its documentation.</description>
+      <guid>https://xenodochial-lewin-dc7bbf.netlify.com/o-n%C3%A1s/</guid>
+      <description>Stručný obsah Našim cílem pro tento projek je seznámit s fenoménem jménem Mandela efekt, říct co vlastně znamená, kde se vzal a uvést nejznámější příklady tohoto efektu.
+Mandela efekt je novodobý fenomén, který se zabývá tím, že si některé věci pamatujeme zcela jinak, než ve skutečnosti jsou. Občas nás sice paměť zklame, ale když se tak stane u většiny lidí ze všech koutů planety, věci začínají být podezdřelé. Exituje několik teorií, proč se tak děje.</description>
     </item>
     
   </channel>

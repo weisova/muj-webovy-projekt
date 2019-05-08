@@ -1,58 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>https://xyz.netlify.com/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Mandela efekt</title>
+    <link>https://xenodochial-lewin-dc7bbf.netlify.com/tags/</link>
+    <description>Recent content in Tags on Mandela efekt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://xyz.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xenodochial-lewin-dc7bbf.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Beatles</title>
-      <link>https://xyz.netlify.com/tags/beatles/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://xyz.netlify.com/tags/beatles/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Data</title>
-      <link>https://xyz.netlify.com/tags/data/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      <link>https://xenodochial-lewin-dc7bbf.netlify.com/tags/data/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://xyz.netlify.com/tags/data/</guid>
+      <guid>https://xenodochial-lewin-dc7bbf.netlify.com/tags/data/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hello World</title>
-      <link>https://xyz.netlify.com/tags/hello-world/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      <title>Illustration</title>
+      <link>https://xenodochial-lewin-dc7bbf.netlify.com/tags/illustration/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://xyz.netlify.com/tags/hello-world/</guid>
+      <guid>https://xenodochial-lewin-dc7bbf.netlify.com/tags/illustration/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://xyz.netlify.com/tags/hugo/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      <title>Mandelaeffect</title>
+      <link>https://xenodochial-lewin-dc7bbf.netlify.com/tags/mandelaeffect/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://xyz.netlify.com/tags/hugo/</guid>
+      <guid>https://xenodochial-lewin-dc7bbf.netlify.com/tags/mandelaeffect/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Start</title>
-      <link>https://xyz.netlify.com/tags/start/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      <title>Moodboar</title>
+      <link>https://xenodochial-lewin-dc7bbf.netlify.com/tags/moodboar/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://xyz.netlify.com/tags/start/</guid>
+      <guid>https://xenodochial-lewin-dc7bbf.netlify.com/tags/moodboar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pictures</title>
+      <link>https://xenodochial-lewin-dc7bbf.netlify.com/tags/pictures/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xenodochial-lewin-dc7bbf.netlify.com/tags/pictures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pinterest</title>
+      <link>https://xenodochial-lewin-dc7bbf.netlify.com/tags/pinterest/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xenodochial-lewin-dc7bbf.netlify.com/tags/pinterest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sources</title>
+      <link>https://xenodochial-lewin-dc7bbf.netlify.com/tags/sources/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xenodochial-lewin-dc7bbf.netlify.com/tags/sources/</guid>
       <description></description>
     </item>
     

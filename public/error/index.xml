@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Errors on My New Hugo Site</title>
-    <link>https://xyz.netlify.com/error/</link>
-    <description>Recent content in Errors on My New Hugo Site</description>
+    <title>Errors on Mandela efekt</title>
+    <link>https://xenodochial-lewin-dc7bbf.netlify.com/error/</link>
+    <description>Recent content in Errors on Mandela efekt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     
-	<atom:link href="https://xyz.netlify.com/error/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xenodochial-lewin-dc7bbf.netlify.com/error/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://xyz.netlify.com/error/404/</link>
+      <link>https://xenodochial-lewin-dc7bbf.netlify.com/error/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xyz.netlify.com/error/404/</guid>
+      <guid>https://xenodochial-lewin-dc7bbf.netlify.com/error/404/</guid>
       <description></description>
     </item>
     
