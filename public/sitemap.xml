@@ -3,76 +3,93 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://xyz.netlify.com/post/another-post/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/post/data-pro-projekt/</loc>
+    <lastmod>2019-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/post/welcome-to-hugo/</loc>
-    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/post/moodboard/</loc>
+    <lastmod>2019-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/error/404/</loc>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/post/clanek/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/about/</loc>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/error/404/</loc>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/post/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/post/</loc>
+    <lastmod>2019-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/tags/beatles/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/categories/</loc>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/tags/data/</loc>
+    <lastmod>2019-04-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/tags/data/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/error/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/error/</loc>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/tags/illustration/</loc>
+    <lastmod>2019-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/tags/hello-world/</loc>
-    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/</loc>
+    <lastmod>2019-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/tags/mandelaeffect/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xyz.netlify.com/tags/hugo/</loc>
-    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/tags/moodboar/</loc>
+    <lastmod>2019-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/tags/start/</loc>
-    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/o-n%C3%A1s/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/tags/pictures/</loc>
+    <lastmod>2019-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xyz.netlify.com/tags/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/tags/pinterest/</loc>
+    <lastmod>2019-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/tags/sources/</loc>
+    <lastmod>2019-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xenodochial-lewin-dc7bbf.netlify.com/tags/</loc>
+    <lastmod>2019-04-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
