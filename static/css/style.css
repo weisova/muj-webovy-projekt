@@ -1,6 +1,6 @@
 .wrapper {
   margin: 30px auto;
-  max-width: 800px;
+  max-width: 1080px;
   padding: 20px;
 }
  
@@ -20,7 +20,9 @@ footer {
   border-left: solid;
   padding-left: 1.5em;
   padding-bottom: 2em;
+  padding-right: 1.5em;
   min-height: 400px;
+  background-color: rgb(0, 0, 0, .5);
 }
 
 aside {
@@ -43,18 +45,18 @@ nav .active {
 }
 
 body {
-  background-color: black;
+  background: url(https://is.muni.cz/www/481227/me12.jpg);
 }
 
 .mainheading {
   text-align: center;
   font-family: "Verdana";
-  font-size: 37pt;
+  font-size: 45pt;
   font-weight: 700;
   color: #1a1aff;
 }
 
-.header1 {
+h1 {
   font-family: "Verdana";
   font-size: 27pt;
   font-weight: 700;

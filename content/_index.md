@@ -13,6 +13,8 @@ Mandela efekt je problematika částečně spadající do oblasti konspiračníc
 **Proč Mandela efekt?**  
 Mnoho lidí si pamatuje, že bývalý prezident Jihoafrické republiky Nelson Mandela zemřel v 80. letech ve vězení v Pollsmoor. Pravda je však jiná - Nelson Mandela žil až do roku 2013. Tato událost je prvním zdokumentovaným příkladem tohoto fenoménu.  
 
+<iframe width="700px" height="450px" src="https://www.youtube.com/embed/VoD6x1IugNg" allowfullscreen></iframe>
+
 **Varování!**  
 Celý tento fenomén se řadí mezi konspirační teorie a jedná se pouze o osobní domněnky osob, nelze proto z žádných tvrzení vycházet a brát je 100% vážně.
  
