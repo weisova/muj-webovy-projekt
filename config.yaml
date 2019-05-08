@@ -6,10 +6,10 @@ googleAnalytics : UA-139390205-1
 
 menu:
   main:
-    - name: Homepage
+    - name: Domovská stránka
       url: /
       weight: 10
-    - name: Archive
+    - name: Archiv
       identifier: post
       url: /post/
       weight: 20
