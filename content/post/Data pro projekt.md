@@ -11,7 +11,7 @@ tags:
 Tento článek bude obsahovat konkrétní zdroje s daty vhodné pro náš projekt. U každého zdroje bude uveden popis a údaj o tom, pod jakou licencí jsou data dostupná. Některé zdroje se budou opakovat, protože již jsou uvedena v předchozím článku. 
 
 
-## (Otevřená)´data pro projekt 
+## Otevřená data pro projekt 
 
 Konkrétní zdroje zabývající se mandela efektem:
 

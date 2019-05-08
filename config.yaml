@@ -15,6 +15,6 @@ menu:
       weight: 20
 
 params:
-  description: Description of my new site.
-  authors: Authors
+  description: Na této stránce se dozvíte více o fenoménu známém jako Mandela efekt, který sice nebyl nikdy vědecky doložený, ale velké množství lidí ho po celém světě zažilo.
+  authors: Eliška, Dominika, Pepa
 
