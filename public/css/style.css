@@ -1,9 +1,9 @@
 .wrapper {
   margin: 30px auto;
-  max-width: 800px;
+  max-width: 1080px;
   padding: 20px;
 }
-
+ 
 header {
   padding: 30px 0 0;
   border-bottom: solid;
@@ -20,7 +20,9 @@ footer {
   border-left: solid;
   padding-left: 1.5em;
   padding-bottom: 2em;
+  padding-right: 1.5em;
   min-height: 400px;
+  background-color: rgb(0, 0, 0, .5);
 }
 
 aside {
@@ -40,4 +42,64 @@ nav li {
 
 nav .active {
   font-weight: bold;
+}
+
+body {
+  background: url(https://is.muni.cz/www/481227/me12.jpg);
+}
+
+.mainheading {
+  text-align: center;
+  font-family: "Verdana";
+  font-size: 45pt;
+  font-weight: 700;
+  color: #1a1aff;
+}
+
+h1 {
+  font-family: "Verdana";
+  font-size: 27pt;
+  font-weight: 700;
+  color: #ffffff;  
+}
+
+h2 {
+  font-family: "Verdana";
+  font-size: 22pt;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+h3 {
+  font-family: "Georgia";
+  font-size: 18pt;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+p {
+  text-align: justify;
+  font-family: "Georgia";
+  font-size: 15pt;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+li {
+  font-family: "Georgia";
+  font-size: 15pt;
+  font-weight: 500;
+  line-height: 170%;
+  color: #ffffff;
+}
+
+.date {
+  font-family: "Georgia";
+  font-size: 13pt;
+  font-style: italic;
 }

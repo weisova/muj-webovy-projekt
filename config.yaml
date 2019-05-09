@@ -5,10 +5,10 @@ publishDir: public
 
 menu:
   main:
-    - name: Homepage
+    - name: Domovská stránka
       url: /
       weight: 10
-    - name: Archive
+    - name: Archiv
       identifier: post
       url: /post/
       weight: 20
