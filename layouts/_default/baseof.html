@@ -1,19 +1,17 @@
 <!doctype html>
 <html lang="{{ .Site.LanguageCode }}">
 <head>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139390205-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-139390205-1');
-  <meta charset="utf-8">
+	<meta charset="utf-8">
   <title>{{ .Site.Title }}</title>
   <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}">
-  
-</script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139390205-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-139390205-1');
+  </script>
 </head>
 <body>
   <div class="wrapper">

@@ -1,8 +1,11 @@
 ---
-title: Mandela Efekt ve filmech a seriálech
-menu:
-  main:
-    weight: 30
+title: "Mandela Efekt ve filmech a seriálech"
+date: 2019-05-09
+tags: 
+    - Mandela effect
+    - movies
+    - quotes 
+
 ---
 
 V tomto článku si představíme 6 nejznámějších příladů Mandela efektu ve filmech a seriálech. 
