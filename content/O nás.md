@@ -4,9 +4,10 @@ menu:
   main:
     weight: 30
 ---
+
 ## Stručný obsah
 
-Našim cílem pro tento projek je seznámit s fenoménem jménem Mandela efekt, říct co vlastně znamená, kde se vzal a uvést nejznámější příklady tohoto efektu.
+Našim cílem pro tento projekt je seznámit okolí s fenoménem jménem Mandela efekt, říct co vlastně znamená, kde se vzal a uvést nejznámější příklady tohoto efektu.
 
 Mandela efekt je novodobý fenomén, který se zabývá tím, že si některé věci pamatujeme zcela jinak, než ve skutečnosti jsou. Občas nás sice paměť zklame, ale když se tak stane u většiny lidí ze všech koutů planety, věci začínají být podezdřelé. Exituje několik teorií, proč se tak děje. Může za nepravé vzpomínky cestování časem, vliv paralelních vesmírů, jiné dimenze nebo obyčejná náhoda a lidská hloupost?
 
@@ -54,33 +55,20 @@ Web budeme mít laděný do černa, aby stránky pusobily tajemně.
 
 ## Základní obsah
 
+
 1) Co je to mandela efekt
 
-2) Nelson Mandela 
+2) Mandela efekt ve filmech a seriálech
 
-3) Konspirační teorie
+3) Mandela efekt v životě celebrit
 
-4) Teorie
+4) Mandela efekt ve značkách produktů
 
-5) Mandela efekt ve filmu
-
-6) Mandela efekt v hudbě
-
-7) Mandela efekt ve značkách
-
-8) Mandela efekt v jídle
-
-9) Mandela efekt v životě celebrit
-
-10) Mandela efekt v běžném životě
+5) Mandela efekt v jídle
 
 ## Strategie zveřejňování obsahu
 
 Našim plánem je každý týden zveřejňovat jedno téma z výše uvedených. 
-
-
-
-
 
 This is a minimal [Hugo][] website created for a course [VIKBA07][].
 
