@@ -44,7 +44,7 @@ Kromě toho, existuje i spousta jiných Mandela efektů v životě celebrit. Že
 
 ## Záhadné zmizení Agathy Christie
 
-Spisovatelka Agatha Christie v roce 1926 čelila rozvodu. Christie osudnou noc, kdy jí manžel opustil, zmizela. O několik dní pozdějí její auto bylo nalezeno v Newlands Corner. Veřejnost hledala dlouho svoji milovanou autorku. Zprávy o ní se dostaly až do USA, kde její zmízení bylo novinkou na titulní straně. Christie byla podle oficiálních zpráv nalezena 23. prosince 1926 v hotelu v Yorkshire. To, co se stalo, je záhadou, dva lékaři řekli, že Agatha Christie trpí amnézií, jiní řekli,že to byla deprese. Ale teď přichází problém, kde přichází na scénu Mandela efekt. Existuje mnoho lidí, kteří si vůbec nepamatují, že Agatha Christie byla nalezena. Ve skutečnosti si pamatují, že Agatha Christie NIKDY nebyla nalezena. 
+Spisovatelka Agatha Christie v roce 1926 čelila rozvodu. Christie osudnou noc, kdy jí manžel opustil, zmizela. O několik dní pozdějí její auto bylo nalezeno v Newlands Corner. Veřejnost hledala dlouho svoji milovanou autorku. Zprávy o ní se dostaly až do USA, kde její zmízení bylo novinkou na titulní straně. Christie byla podle oficiálních zpráv nalezena 23. prosince 1926 v hotelu v Yorkshire. To, co se stalo, je záhadou, dva lékaři řekli, že Agatha Christie trpí amnézií, jiní řekli, že to byla deprese. Ale teď přichází problém, kde přichází na scénu Mandela efekt. Existuje mnoho lidí, kteří si vůbec nepamatují, že Agatha Christie byla nalezena. Ve skutečnosti si pamatují, že Agatha Christie NIKDY nebyla nalezena. 
 
 <img src="http://i66.tinypic.com/2qi8o08.jpg" width="560">
 
