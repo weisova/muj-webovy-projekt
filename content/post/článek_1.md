@@ -24,7 +24,7 @@ Tato fráze ve skutečnosti nikdy nenzazněla, i když jí dennodenně říkají
 
 ## C-3PO a stříbrná noha
 
-Také jste si mysleli že postava C-3PO ve Star Wars, konkrétně v epizodě 4 byla kompletně celá zlatá? Omyl. Ve skutenčnosti měl po celou dobu stříbrnou nohu.
+Také jste si mysleli že postava C-3PO ve Star Wars, konkrétně v epizodě 4 byla kompletně celá zlatá? Omyl. Ve skutečnosti měl po celou dobu stříbrnou nohu.
 
 <img src="https://gweeklynews.com/wp-content/uploads/2018/09/main-qimg-a06adc5ce2c9f23d8520b6ac432ec83d.png" width="560">
 
