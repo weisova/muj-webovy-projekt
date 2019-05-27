@@ -13,7 +13,7 @@ Tento článek bude obsahovat konkrétní zdroje s daty vhodné pro náš projek
 
 ## Otevřená data pro projekt 
 
-Konkrétní zdroje zabývající se mandela efektem:
+Konkrétní zdroje zabývající se Mandela efektem:
 
 1) https://mandelaeffect.com/?fbclid=IwAR0djcHBNxCKTKmpqrCXoyNfGQadUUBTitHc-RUDUgGEzuM6eJnJjmPykow
 
