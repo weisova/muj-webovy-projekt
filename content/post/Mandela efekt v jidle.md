@@ -57,7 +57,7 @@ Překvapivě, ani jedno z těchto tvrzení není správné. Pizza Havaj je výmy
 
 <img src="http://i64.tinypic.com/kbqhs0.jpg" width="560">
 
-A jaký máté vy názor, ananas na pizzu patří nebo si stojíte za tím, že to je dílo satanovo? :)
+A jaký máte vy názor, ananas na pizzu patří nebo si stojíte za tím, že to je dílo satanovo? :)
 
 
 <img src="http://i68.tinypic.com/2epj86v.jpg" width="560">
